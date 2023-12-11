@@ -30,7 +30,7 @@ const SubscribeLetter = () => {
         <label for="bordered-checkbox-1" class="w-full py-4 ms-2 text-md font-medium text-gray-900 dark:text-gray-300">Agree All the Terms & Services</label>
 
         <div>
-            <button type="button" class="mt-5 focus:outline-none text-white bg-green-700  font-medium rounded-lg text-sm px-[40px] py-[10px] me-2 mb-2">Green</button> 
+            <button type="button" class="mt-5 focus:outline-none text-white bg-green-700  font-medium rounded-lg text-sm px-[40px] py-[10px] me-2 mb-2">Subscribe</button> 
         </div>
 
       </div>
